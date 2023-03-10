@@ -222,7 +222,7 @@ a:focus {
 
 /* common style for some sections */
 .common_style>section {
-  padding: 50px 0;
+  padding: 50px 50px;
 }
 
 .common_style .row {
